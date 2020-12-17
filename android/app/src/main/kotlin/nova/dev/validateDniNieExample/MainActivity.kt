@@ -1,0 +1,6 @@
+package nova.dev.validateDniNieExample
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
